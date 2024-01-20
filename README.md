@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridham Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-15-best-coding-apps-beginners-2023-mehedi-hasan&psig=AOvVaw18aXXgITGufWt4Xr7ItXeC&ust=1705808267777000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiswNSF64MDFQAAAAAdAAAAABAJ"
+<img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-15-best-coding-apps-beginners-2023-mehedi-hasan&psig=AOvVaw18aXXgITGufWt4Xr7ItXeC&ust=1705808267777000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiswNSF64MDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irythmgarg&label=Profile%20views&color=0e75b6&style=flat" alt="irythmgarg" /> </p>
 
