@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridham Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align=“right” width=400 alt=“coding” src=“https://www.freepik.com/free-psd/metaverse-digital-cyber-world-technology-man-holding-virtual-reality-with-futuristic-interface-3d-hologram-data-3d-illustration_23881087.htm#query=programming%203d&position=22&from_view=keyword&track=ais&uuid=05f6828b-cc36-461e-9424-0c8cfce832d1”
+<img align="right" width=400 alt="coding" src="https://www.freepik.com/free-psd/metaverse-digital-cyber-world-technology-man-holding-virtual-reality-with-futuristic-interface-3d-hologram-data-3d-illustration_23881087.htm#query=programming%203d&position=22&from_view=keyword&track=ais&uuid=05f6828b-cc36-461e-9424-0c8cfce832d1"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irythmgarg&label=Profile%20views&color=0e75b6&style=flat" alt="irythmgarg" /> </p>
 
